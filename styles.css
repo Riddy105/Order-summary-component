@@ -89,7 +89,6 @@ img {
 }
 .payment:hover {
   opacity: 0.5;
-  background-color: red;
 }
 
 .cancel {
