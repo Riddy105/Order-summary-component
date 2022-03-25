@@ -89,6 +89,7 @@ img {
 }
 .payment:hover {
   opacity: 0.5;
+  background-color: red;
 }
 
 .cancel {
@@ -100,8 +101,5 @@ img {
   font-weight: bold;
 }
 
-@media screen and (max-width: 375px) {
-  .main {
-    width: 375px;
-  }
+@media screen and (max-width: 500px) {
 }
